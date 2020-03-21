@@ -20,7 +20,7 @@ Clone the project from Github using the following command:
 
 After cloning go to project directory with the following command:
 
-```cd planet-test```
+```cd planets-test```
 
 Run the test using the following maven command:
 
