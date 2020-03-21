@@ -28,7 +28,7 @@ Run the test using the following commands:
 
 ### Technical stack used for this project
 
-1. I have used [***REST-assured***](http://rest-assured.io/)
+1. Used [***REST-assured***](http://rest-assured.io/) for rest api testing.
 2. JUnit to create unit tests.
 3. Used Maven as a build tool
 
