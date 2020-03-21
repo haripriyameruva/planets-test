@@ -4,7 +4,7 @@ This Project is to demonstrate testing of planets endpoint of [***Star Wars API*
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See prerequisites and Installing instuctions to how to run the project.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See prerequisites and Installing instuctions to how to run the project. All the test are written in [***PlanetsTest.java***](https://github.com/haripriyameruva/planets-test/blob/master/src/test/java/co/swapi/planets/test/PlanetsTest.java)
 
 ### Prerequisites
 
