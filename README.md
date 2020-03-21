@@ -1,6 +1,6 @@
 # planets-test
 
-This Project is to demonstrate testing planets endpoint of the [***Star Wars API***](https://swapi.co/)
+This Project is to demonstrate testing of planets endpoint of [***Star Wars API***](https://swapi.co/)
 
 ## Getting Started
 
@@ -12,17 +12,17 @@ Java and Maven
 
 ### Installing
 
-Clone the project from Github using the following commands: 
+Clone the project from Github using the following command: 
 
 ```git clone https://github.com/haripriyameruva/planets-test.git```
 
 ## Running the tests
 
-After cloning go to project directory with the following commands:
+After cloning go to project directory with the following command:
 
 ```cd planet-test```
 
-Run the test using the following commands:
+Run the test using the following maven command:
 
 ```mvn test```
 
